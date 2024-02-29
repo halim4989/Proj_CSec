@@ -1,0 +1,43 @@
+body {
+    height: 100vh;
+    background: #5c8a97;
+    color: rgba(255, 255, 255, 0.6);
+    margin: 0;
+    display: grid;
+    font-family: 'Poppins';
+}
+
+.container {
+    text-align: center;
+    padding: 8em 0;
+    height: 100vh;
+}
+
+h1 {
+    font-size: 5em;
+    margin: 0;
+}
+
+h2 {
+    font-size: 3em;
+    margin-top: 8em;
+}
+
+p {
+    font-size: 1.3em;
+    margin: 0;
+}
+
+section {
+    text-align: center;
+    padding: 8em 0;
+    height: 200vh;
+}
+
+svg {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    z-index: -1;
+    overflow: visible;
+}
